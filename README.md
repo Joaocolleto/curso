@@ -1,2 +1,2 @@
-# curso
-Repositorio versionado
+# curso git
+Repositorio versionado,,
